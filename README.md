@@ -7,5 +7,6 @@
 Grup 92. -->
 [resim yolu](https://miro.medium.com/v2/resize:fit:256/1*ztqS5rRI29GHxZa6uPF2UA.png)
 https://miro.medium.com/v2/resize:fit:256/1*ztqS5rRI29GHxZa6uPF2UA.png
+
 python e01
 # python e01
