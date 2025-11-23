@@ -7,4 +7,5 @@
 
 python e01
 # python e01
+<img height="50px" src="https://www.emojiall.com/images/240/telegram/1f44b.gif" alt="Örnek Resim"/>
 
