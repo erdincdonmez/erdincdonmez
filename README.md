@@ -10,3 +10,4 @@ python e01
 <img height="50px" src="https://www.emojiall.com/images/240/telegram/1f44b.gif" alt="Örnek Resim"/>
 
 <h1>Büyük başlık - Başlık 1</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="resme alternatif yazı">
