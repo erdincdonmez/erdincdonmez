@@ -14,5 +14,7 @@ python e01
 <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="resme alternatif yazı">
 
 <img height="100" src="resimler/anaekran.JPG" alt="Örnek Resim"/>
+
 <img height="200" src="resimler/anaekran.JPG" alt="Örnek Resim"/>
+<p>Projemizin ana ekranında ....</p>
 <img height="50" src="https://www.emojiall.com/images/240/telegram/1f44b.gif" alt="Örnek Resim"/>
