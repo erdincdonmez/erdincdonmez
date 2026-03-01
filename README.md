@@ -15,3 +15,4 @@ python e01
 
 <img height="100" src="resimler/anaekran.JPG" alt="Örnek Resim"/>
 <img height="200" src="resimler/anaekran.JPG" alt="Örnek Resim"/>
+<img height="50" src="https://www.emojiall.com/images/240/telegram/1f44b.gif" alt="Örnek Resim"/>
